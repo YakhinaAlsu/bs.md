@@ -1,0 +1,102 @@
+/* 1 БЛОК */
+body {
+    font-family: "Ubuntu";
+}
+header {
+    background-color: rgb(66, 167, 235);
+    height: 821px;  
+}
+ 
+.col-md-4 h5,h2 {
+    font-family: "Ubuntu";
+    font-weight: bold;
+    font-size: 25px;
+    color: white;
+    letter-spacing: 3px;
+}
+.col-md-4 p {
+    line-height: 10px;
+}
+.col-md-4 .one {
+    padding-top: 35px;
+}
+.col-md-4 .btn .btn-warning {
+padding-top: 145px;
+
+}
+.navbar {
+    padding-left: 265px;
+}
+.navbar .navbar-brand {
+    padding-top: 60px;
+}
+.btn-one {
+    padding-top: 25px;
+    font-weight: bold;
+    transition-duration: 2s;
+    
+}
+
+.btn:hover {
+    background-color: yellowgreen;
+    transition: 2s;
+}
+.col-md-4 {
+    text-align: left;
+    padding-top: 140px; 
+}
+
+
+/*  2 БЛОК */
+main {
+    height: 500px;
+}
+.page-main {
+    padding-top: 85px;
+    color: black;
+    text-align: center;
+}
+.border-0 {
+    border: none;
+}
+.card-body {
+    text-align: center;
+}
+
+.card-text2 {
+    line-height: 0;
+}
+
+/* 3 БЛОК */
+
+footer {
+    height: 595px;
+    background-color: rgb(236, 243, 248);
+}
+
+.page-footer {
+    text-align: center;
+    padding-top: 55px;
+    color: black;
+}
+.row {
+    padding-top: 55px; 
+    
+}
+
+.col-4{
+    padding-top: 15px;
+    width: 250px;
+}
+
+.footer2 {
+    height: 136px;
+    background-color: rgb(22,77,122);
+}
+
+.text-footer2 {
+    text-align: center;
+    color: white;
+    font-size: medium;
+    padding-top: 55px;
+}
